@@ -66,7 +66,7 @@ class Student {
 
 int main() {
 	Student kristen;
-	
+	cout<<"Assalamualaikum"<<endl;
 	kristen.input();
 	kristen.display();
 	kristen.calculateTotalScore();
